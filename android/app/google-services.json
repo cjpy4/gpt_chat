@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "259082467594",
+    "project_id": "gpt-flyer-chat",
+    "storage_bucket": "gpt-flyer-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259082467594:android:3d469426150e54a97062f3",
+        "android_client_info": {
+          "package_name": "com.example.gpt_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259082467594-rqru96gddkbnflvsjqimkqaelmeu7i8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeNMMdoF2Lho66xz1OBh0LNmWyR41jV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259082467594-rqru96gddkbnflvsjqimkqaelmeu7i8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259082467594-37qshm525qp7nllu3n42noqiphfj73hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gptChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
