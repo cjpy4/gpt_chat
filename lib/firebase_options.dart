@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBpXc9oSM2qCqJfRg3JvR6woIVZDurD3Lo',
-    appId: '1:259082467594:web:46598a21343dee2d7062f3',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '259082467594',
     projectId: 'gpt-flyer-chat',
     authDomain: 'gpt-flyer-chat.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyApeNMMdoF2Lho66xz1OBh0LNmWyR41jV4',
-    appId: '1:259082467594:android:3d469426150e54a97062f3',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '259082467594',
     projectId: 'gpt-flyer-chat',
     storageBucket: 'gpt-flyer-chat.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDbIausk8og9uuCQFSq6BfOCJtHn3CUN58',
-    appId: '1:259082467594:ios:0fe588dd5d2d16bc7062f3',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '259082467594',
     projectId: 'gpt-flyer-chat',
     storageBucket: 'gpt-flyer-chat.appspot.com',
@@ -72,8 +72,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDbIausk8og9uuCQFSq6BfOCJtHn3CUN58',
-    appId: '1:259082467594:ios:0fe588dd5d2d16bc7062f3',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '259082467594',
     projectId: 'gpt-flyer-chat',
     storageBucket: 'gpt-flyer-chat.appspot.com',
